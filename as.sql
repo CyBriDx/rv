@@ -11,7 +11,7 @@ dimTime_path = generate_filePath(adlsAccountName, 'external/AMESA/SSA/POS/Dim_Ti
 pnpDeliveries_path = generate_filePath(adlsAccountName, 'external/AMESA/SSA/POS/PnPDeliveries/')
 PnPSales_Path = generate_filePath(adlsAccountName, "external/AMESA/SSA/PnPSales/")
 TEGMDSTOREMASTER_Path = generate_filePath(adlsAccountName, "external/AMESA/SSA/TEGMDSTOREMASTER/")
-PnPStoreValidaty_Path = generate_filePath(adlsAccountName, "external/AMESA/SSA/PnPStoreValidaty/")
+PnPStoreValidaty_Path = generate_filePath(adlsAccountNamasde, "external/AMESA/SSA/PnPStoreValidaty/")
 
 sourceFiletype = "delta"
 inferSchema = True
